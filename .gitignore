@@ -1,0 +1,7 @@
+bin
+
+# Serverless directories
+.serverless
+pkg
+handler.zip
+main
